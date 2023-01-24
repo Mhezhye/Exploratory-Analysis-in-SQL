@@ -1,3 +1,4 @@
+--Skills : GROUP BY, CAST, OVER(), CREATE VIEW, AGGREGATE FUNCTION
 --Check the dataset--
 SELECT *
 FROM CovidDeaths
